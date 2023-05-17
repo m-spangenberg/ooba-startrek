@@ -9,7 +9,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: The Original Series**
 
-* 🚧 Captain James T. Kirk
+* 🖖 Captain James T. Kirk
 * 🚧 First Officer Spock
 * 🚧 Science Officer Leonard McCoy
 * 🚧 Chief Engineer Montgomery Scott
@@ -50,7 +50,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: Deep Space Nine**
 
-* 🚧 Captain Benjamin Sisko
+* 🖖 Captain Benjamin Sisko
 * 🚧 First Officer Jadzia Dax
 * 🚧 Science Officer Miles O'Brien
 * 🚧 Chief Engineer Julian Bashir
@@ -93,7 +93,7 @@ To use these characters with oobabooga's text generation web UI, follow these st
 Contributions to this repository are more than welcome! If you have additional Star Trek characters that you would like to see included, or if you spot any errors or inconsistencies, please feel free to contribute. Here's how:
 
 1. Fork this repository to your GitHub account.
-2. Make your desired changes or additions. Please see [Captain Picard]([ooba-startrek/Star\ Trek\ The\ Next\ Generation/picard.json](https://github.com/m-spangenberg/ooba-startrek/blob/f21adaba35d850f8cc8e168b634196d7fd1b4351/Star%20Trek%20The%20Next%20Generation/picard.json)) as reference.
+2. Make your desired changes or additions. Please see [Captain Picard](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20The%20Next%20Generation/picard.json) or [Commander Sisko](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20Deep%20Space%20Nine/sisko.json) as reference.
 3. Submit a pull request, describing the changes or additions you've made.
 
 Please ensure that your contributions adhere to the following guidelines:
