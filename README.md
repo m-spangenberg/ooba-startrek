@@ -3,6 +3,8 @@ A collection of characters from the Star Trek universe for use with oobabooga's 
 
 This repository serves as a collection of characters from the Star Trek universe that can be utilized with the [oobabooga's text generation web UI](https://github.com/oobabooga/text-generation-webui). If you're a Star Trek fan or simply interested in generating text based on your favorite Star Trek characters, you're in the right place!
 
+⚠️ Note: I've started with ST:TNG, but I'll add more characters as time permits. If you would like to contribute characters, you're more than welcome. See Captain Picard's json file as reference. If you have any suggestions on best LLM models to use (CPU or GPU) or tips on getting a more accurate likeness when priming the character with context, I'd love to hear your thoughts. This is a brand new repository, so expect things to start slowly.
+
 ## Usage
 To use these characters with oobabooga's text generation web UI, follow these steps:
 
