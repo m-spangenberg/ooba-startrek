@@ -29,9 +29,9 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 * 🖖 Data
 * 🖖 Geordi La Forge
 * 🖖 Worf
-* 🖖 Doctor Beverly Crusher
+* 🖖 Chief Medical Officer Beverly Crusher
 * 🚧 Wesley Crusher
-* 🚧 Doctor Katherine Pulaski
+* 🚧 Chief Medical Officer Katherine Pulaski
 * 🖖 Reginald Barclay
 * 🚧 Ro Laren
 * 🚧 Miles O'Brien
