@@ -9,70 +9,64 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: The Original Series**
 
-* 🖖 Captain James T. Kirk
-* 🚧 First Officer Spock
-* 🚧 Science Officer Leonard McCoy
-* 🚧 Chief Engineer Montgomery Scott
-* 🚧 Helmsman Hikaru Sulu
-* 🚧 Communications Officer Uhura
-* 🚧 Chief Medical Officer Leonard McCoy
-* 🚧 Transporter Chief Kyle
-* 🚧 Yeoman Janice Rand
-* 🚧 Nurse Christine Chapel
-* 🚧 Security Chief Sulu
+- 🖖 Captain James T. Kirk: Captain
+- 🖖 First Officer Spock: Science Officer
+- 🖖 Lieutenant Commander Leonard McCoy: Chief Medical Officer
+- 🖖 Commander Montgomery Scott: Chief Engineer
+- Lieutenant Hikaru Sulu: Helmsman/Security Chief
+- Lieutenant Uhura: Communications Officer
+- Lieutenant Christine Chapel: Nurse
 
 **Star Trek: The Next Generation**
 
-* 🖖 Captain Jean-Luc Picard
-* 🖖 First Officer William Riker
-* 🖖 Counselor Deanna Troi
-* 🖖 Data
-* 🖖 Geordi La Forge
-* 🖖 Worf
-* 🖖 Chief Medical Officer Beverly Crusher
-* 🚧 Wesley Crusher
-* 🚧 Chief Medical Officer Katherine Pulaski
-* 🖖 Reginald Barclay
-* 🚧 Ro Laren
-* 🚧 Miles O'Brien
+- 🖖 Captain Jean-Luc Picard: Captain
+- 🖖 Commander William Riker: First Officer
+- 🖖 Counselor Deanna Troi: Counselor
+- 🖖 Lieutenant Commander Data: Operations Officer
+- 🖖 Lieutenant Commander Geordi La Forge: Chief Engineer
+- 🖖 Lieutenant Commander Worf: Tactical Officer
+- 🖖 Commander Beverly Crusher: Chief Medical Officer
+- Ensign Wesley Crusher: Acting Ensign
+- Commander Katherine Pulaski: Chief Medical Officer
+- 🖖 Ensign Reginald Barclay: Engineering Officer
+- Ensign Ro Laren: Security Officer
+- Chief Petty Officer, First Class Miles O'Brien: Transporter Chief
 
 **Star Trek: Enterprise**
 
-* 🚧 Captain Jonathan Archer
-* 🚧 First Officer T'Pol
-* 🚧 Science Officer Hoshi Sato
-* 🚧 Chief Engineer Charles Tucker III
-* 🚧 Helmsman Travis Mayweather
-* 🚧 Communications Officer Malcolm Reed
-* 🚧 Doctor Phlox
-* 🚧 Ensign Trip Tucker
-* 🚧 Ensign T'Pol
+- 🖖 Captain Jonathan Archer: Captain
+- Commander T'Pol: First Officer
+- Lieutenant Hoshi Sato: Science Officer
+- Commander Charles Tucker III: Chief Engineer
+- Ensign Travis Mayweather: Helmsman
+- Lieutenant Malcolm Reed: Communications Officer
+- Doctor Phlox: Doctor
+- Ensign Trip Tucker: Engineer
 
 **Star Trek: Deep Space Nine**
 
-* 🖖 Captain Benjamin Sisko
-* 🚧 First Officer Jadzia Dax
-* 🚧 Science Officer Miles O'Brien
-* 🚧 Chief Engineer Julian Bashir
-* 🚧 Chief Medical Officer Ezri Dax
-* 🚧 Security Chief Odo
-* 🚧 Transporter Chief Kira Nerys
-* 🚧 Quark
-* 🚧 Rom
-* 🚧 Nog
+- 🖖 Captain Benjamin Sisko: Captain
+- 🖖 Lieutenant Commander Jadzia Dax: First Officer
+- Chief Petty Officer, First Class Miles O'Brien: Chief Engineer
+- Lieutenant Julian Bashir: Chief Medical Officer
+- Lieutenant Ezri Dax: Chief Medical Officer
+- Constable Odo: Security Chief
+- Lieutenant Kira Nerys: First Officer
+- Quark: Owner, Quark's Bar
+- Rom: Waiter, Quark's Bar
+- Ensign Nog: Operations Officer
 
 **Star Trek: Voyager**
 
-* 🖖 Captain Kathryn Janeway
-* 🚧 First Officer Chakotay
-* 🚧 Science Officer Seven of Nine
-* 🚧 Chief Engineer Torres
-* 🚧 Helmsman Paris
-* 🚧 Communications Officer Kim
-* 🚧 Doctor The Doctor
-* 🚧 Neelix
-* 🚧 Kes
-* 🚧 Tuvok
+- 🖖 Captain Kathryn Janeway: Captain
+- Commander Chakotay: First Officer
+- Lieutenant Commander Tuvok: Security Officer
+- Lieutenant Seven of Nine: Science Officer
+- Lieutenant Commander B'Elanna Torres: Chief Engineer
+- Lieutenant Tom Paris: Helmsman
+- Ensign Harry Kim: Communications Officer
+- The Doctor: Emergency Medical Hologram
+- Neelix: Morale Officer
 
 ## To-Do
 
