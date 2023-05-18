@@ -5,7 +5,7 @@ This repository serves as a collection of characters from the Star Trek universe
 
 ## Characters
 
-I've started with ST:TNG, but I'll add more characters as time permits.
+I've started adding characters, some of them are ready to use and others are still a work in progress. I'll add more characters as time permits. I am also working on putting together a stable-diffusion prompt to help generate profile pictures.
 
 **Star Trek: The Original Series**
 
@@ -72,13 +72,13 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 There are many LLM models to choose from and the space is currently changing quite rapidly with new models being released on a weekly basis. If you have fast internet and can recommend models that do really well at story-telling, chat or roleplay, please feel free to add them here.
 
-| **Model**                                                                                               | **Version** | **Perform Well At** |
-|---------------------------------------------------------------------------------------------------------|-------------|---------------------|
-| [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML)                   | GGML q5.1   | Chat/RP             |
-| [Wizard-Vicuna-7B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)    | GGML q5.1   | Needs Testing       |
-| [Wizard-Vicuna-13B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML ) | GGML q5.1   | Needs Testing       |
-| [WizardLM-13B-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)            | GGML q5.1   | Needs Testing       |
-| [Wizard-MEGA-13B-GGML](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)                            | GGML q5.1   | Needs Testing       |
+| **Model**                                                                                               | **Version** | **Performs Well At** |
+|---------------------------------------------------------------------------------------------------------|-------------|----------------------|
+| [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML)                   | GGML q5.1   | Chat/RP              |
+| [Wizard-Vicuna-7B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)         | GGML q5.1   | Needs Testing        |
+| [Wizard-Vicuna-13B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML )      | GGML q5.1   | Needs Testing        |
+| [WizardLM-13B-Uncensored](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)                 | GGML q5.1   | Needs Testing        |
+| [Wizard-MEGA-13B](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)                                 | GGML q5.1   | Needs Testing        |
 
 ## Usage
 To use these characters with oobabooga's text generation web UI, follow these steps:
@@ -93,7 +93,8 @@ To use these characters with oobabooga's text generation web UI, follow these st
 Contributions to this repository are more than welcome! If you have additional Star Trek characters that you would like to see included, or if you spot any errors or inconsistencies, please feel free to contribute. Here's how:
 
 1. Fork this repository to your GitHub account.
-2. Make your desired changes or additions. Please see [Captain Picard](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20The%20Next%20Generation/picard.json) or [Commander Sisko](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20Deep%20Space%20Nine/sisko.json) as reference.
+2. Make your desired changes or additions. 
+3. For reference, see: [Captain Picard](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20The%20Next%20Generation/picard.json) or [Commander Sisko](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20Deep%20Space%20Nine/sisko.json) as reference.
 3. Submit a pull request, describing the changes or additions you've made.
 
 Please ensure that your contributions adhere to the following guidelines:
@@ -101,7 +102,6 @@ Please ensure that your contributions adhere to the following guidelines:
 - Include only characters from the Star Trek universe.
 - Provide accurate and relevant information about each character.
 - Organize the characters in an appropriate manner.
-- Avoid any offensive or inappropriate content.
 
 ## Tips For Better Characters
 
