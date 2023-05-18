@@ -70,7 +70,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 ## Models
 
-There are many LLM models to choose from and the space is currently changing quote rapidly with new models being released on a weekly basis. If you have fast internet and can recommend models that do really well at story-telling, chat or roleplay, please feel free to add them here.
+There are many LLM models to choose from and the space is currently changing quite rapidly with new models being released on a weekly basis. If you have fast internet and can recommend models that do really well at story-telling, chat or roleplay, please feel free to add them here.
 
 | **Model**                                                                                               | **Version** | **Perform Well At** |
 |---------------------------------------------------------------------------------------------------------|-------------|---------------------|
@@ -99,18 +99,18 @@ Contributions to this repository are more than welcome! If you have additional S
 Please ensure that your contributions adhere to the following guidelines:
 
 - Include only characters from the Star Trek universe.
-- Provide accurate and relevant information about each character. (need a primer on getting good likeness)
+- Provide accurate and relevant information about each character.
 - Organize the characters in an appropriate manner.
 - Avoid any offensive or inappropriate content.
 
 ## Tips For Better Characters
 
-- Use search engines and other LLMs to compose a psychological profile of the character you want to model.
-- Capture their likeness by adding your own take on the character's personality and what you believe makes them special.
+- Compose a psychological profile of the character you want to model using chatGPT.
+- Capture their likeness by adding your own take on what you believe makes them special.
 - Distill the essence of their persona down to a paragraph or two with descriptive language.
 - Focus on both strong and weak traits, mannerisms, quirks, and overall presence.
 - Prevent the urge to make a character perfect, highlight some of their shortcomings.
-- When crafting the scenario, set the stage by giving the characters place and purpose. 
+- When crafting the scenario, set the stage by giving the characters place and purpose.
 
 ## Disclaimer
 
