@@ -9,7 +9,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: The Original Series**
 
-- 🖖 Captain James T. Kirk: Captain
+- 🖖 Captain James T. Kirk
 - 🖖 First Officer Spock: Science Officer
 - 🖖 Lieutenant Commander Leonard McCoy: Chief Medical Officer
 - 🖖 Commander Montgomery Scott: Chief Engineer
@@ -19,7 +19,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: The Next Generation**
 
-- 🖖 Captain Jean-Luc Picard: Captain
+- 🖖 Captain Jean-Luc Picard
 - 🖖 Commander William Riker: First Officer
 - 🖖 Counselor Deanna Troi: Counselor
 - 🖖 Lieutenant Commander Data: Operations Officer
@@ -34,7 +34,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: Enterprise**
 
-- 🖖 Captain Jonathan Archer: Captain
+- 🖖 Captain Jonathan Archer
 - Commander T'Pol: First Officer
 - Lieutenant Hoshi Sato: Science Officer
 - Commander Charles Tucker III: Chief Engineer
@@ -45,7 +45,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: Deep Space Nine**
 
-- 🖖 Captain Benjamin Sisko: Captain
+- 🖖 Captain Benjamin Sisko
 - 🖖 Lieutenant Commander Jadzia Dax: First Officer
 - Chief Petty Officer, First Class Miles O'Brien: Chief Engineer
 - Lieutenant Julian Bashir: Chief Medical Officer
@@ -58,7 +58,7 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 
 **Star Trek: Voyager**
 
-- 🖖 Captain Kathryn Janeway: Captain
+- 🖖 Captain Kathryn Janeway
 - Commander Chakotay: First Officer
 - Lieutenant Commander Tuvok: Security Officer
 - Lieutenant Seven of Nine: Science Officer
@@ -68,11 +68,17 @@ I've started with ST:TNG, but I'll add more characters as time permits.
 - The Doctor: Emergency Medical Hologram
 - Neelix: Morale Officer
 
-## To-Do
+## Models
 
-- [X] Start adding characters to their respective TV shows
-- [ ] Add recommendation and storytelling/chat/rp comparison between LLM models
-- [ ] Add character profile image creation prompt so all profile images are consistent
+There are many LLM models to choose from and the space is currently changing quote rapidly with new models being released on a weekly basis. If you have fast internet and can recommend models that do really well at story-telling, chat or roleplay, please feel free to add them here.
+
+| **Model**                                                                                               | **Version** | **Perform Well At** |
+|---------------------------------------------------------------------------------------------------------|-------------|---------------------|
+| [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML)                   | GGML q5.1   | Chat/RP             |
+| [Wizard-Vicuna-7B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)    | GGML q5.1   | Needs Testing       |
+| [Wizard-Vicuna-13B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML ) | GGML q5.1   | Needs Testing       |
+| [WizardLM-13B-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)            | GGML q5.1   | Needs Testing       |
+| [Wizard-MEGA-13B-GGML](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)                            | GGML q5.1   | Needs Testing       |
 
 ## Usage
 To use these characters with oobabooga's text generation web UI, follow these steps:
