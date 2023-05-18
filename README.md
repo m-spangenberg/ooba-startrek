@@ -72,13 +72,13 @@ I've started adding characters, some of them are ready to use and others are sti
 
 There are many LLM models to choose from and the space is currently changing quite rapidly with new models being released on a weekly basis. If you have fast internet and can recommend models that do really well at story-telling, chat or roleplay, please feel free to add them here.
 
-| **Model**                                                                                               | **Version** | **Performs Well At** |
-|---------------------------------------------------------------------------------------------------------|-------------|----------------------|
-| [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML)                   | GGML q5.1   | Chat/RP              |
-| [Wizard-Vicuna-7B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)         | GGML q5.1   | Needs Testing        |
-| [Wizard-Vicuna-13B-Uncensored](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML )      | GGML q5.1   | Needs Testing        |
-| [WizardLM-13B-Uncensored](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)                 | GGML q5.1   | Needs Testing        |
-| [Wizard-MEGA-13B](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)                                 | GGML q5.1   | Needs Testing        |
+| **Model**                                                                                               | **Version** | **Perform Well At** | **Pros**                    | **Cons**             |
+|---------------------------------------------------------------------------------------------------------|-------------|---------------------|-----------------------------|----------------------|
+| [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML)                   | GGML q5.1   | Chat/RP             | Surprisingly conversational | Hallucinates details |
+| [Wizard-Vicuna-7B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)    | GGML q5.1   | Needs Testing       |                             |                      |
+| [Wizard-Vicuna-13B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML ) | GGML q5.1   | Needs Testing       |                             |                      |
+| [WizardLM-13B-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)            | GGML q5.1   | Needs Testing       |                             |                      |
+| [Wizard-MEGA-13B-GGML](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)                            | GGML q5.1   | Needs Testing       |                             |                      |
 
 ## Usage
 To use these characters with oobabooga's text generation web UI, follow these steps:
