@@ -13,6 +13,7 @@ I've started adding characters, some of them are ready to use and others are sti
 - 🖖 First Officer Spock: Science Officer
 - 🖖 Lieutenant Commander Leonard McCoy: Chief Medical Officer
 - 🖖 Commander Montgomery Scott: Chief Engineer
+- 🖖 Harcourt Fenton Mudd: Smuggler, Con-Artists
 - Lieutenant Hikaru Sulu: Helmsman/Security Chief
 - Lieutenant Uhura: Communications Officer
 - Lieutenant Christine Chapel: Nurse
