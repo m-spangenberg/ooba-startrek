@@ -90,13 +90,13 @@ I am interested in experimenting with training LoRAs for each TV show, starting 
 | [WizardLM-7B-uncensored-GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ)              | PENDING                | ST:TNG   |                                                            |
 | [WizardLM-7B-uncensored-GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ)              | PENDING                | ST:DS9   |                                                            | 
 
-## Stable-Diffusion
+## Character Portraits
 
-I have put together a prompt that uses Control-Net to produce pleasing portraits based on screenshots of the characters. For now I will put the workflow here.
+I have put together a prompt and workflow that uses Stable-Diffusion and Control-Net to produce pleasing portraits based on screenshots of the original characters.
 
 TODO: document stable-difussion 1.5 + controlNET portrait workflow
 
-## Prompt
+## Helper Prompt
 
 Here is a simple prompt to help create character personas a little more quickly. Try it with your prefered langauge model, I've gotten decent results with GPT3.5
 
