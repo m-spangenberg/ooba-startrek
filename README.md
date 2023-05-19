@@ -52,6 +52,7 @@ I've started adding characters, some of them are ready to use and others are sti
 - Lieutenant Ezri Dax: Chief Medical Officer
 - Constable Odo: Security Chief
 - Lieutenant Kira Nerys: First Officer
+- 🖖 Elim Garak: Tailor, Spy
 - Quark: Owner, Quark's Bar
 - Rom: Waiter, Quark's Bar
 - Ensign Nog: Operations Officer
@@ -88,6 +89,12 @@ I am interested in experimenting with training LoRAs for each TV show, starting 
 |---------------------------------------------------------------------------------------------------------|------------------------|----------|------------------------------------------------------------|
 | [WizardLM-7B-uncensored-GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ)              | PENDING                | ST:TNG   |                                                            |
 | [WizardLM-7B-uncensored-GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ)              | PENDING                | ST:DS9   |                                                            | 
+
+## Stable-Diffusion
+
+I have put together a prompt that uses Control-Net to produce pleasing portraits based on screenshots of the characters. For now I will put the workflow here.
+
+TODO: document stable-difussion 1.5 + controlNET portrait workflow
 
 ## Usage
 To use these characters with oobabooga's text generation web UI, follow these steps:
