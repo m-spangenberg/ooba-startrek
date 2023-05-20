@@ -14,9 +14,9 @@ I've started adding characters, some of them are ready to use and others are sti
 - 🖖 Lieutenant Commander Leonard McCoy: Chief Medical Officer
 - 🖖 Commander Montgomery Scott: Chief Engineer
 - 🖖 Harcourt Fenton Mudd: Smuggler, Con-Artists
-- Lieutenant Hikaru Sulu: Helmsman/Security Chief
-- Lieutenant Uhura: Communications Officer
-- Lieutenant Christine Chapel: Nurse
+- 🖖 Lieutenant Hikaru Sulu: Helmsman/Security Chief
+- 🖖 Lieutenant Nyota Uhura: Communications Officer
+- 🖖 Lieutenant Christine Chapel: Nurse
 
 **Star Trek: The Next Generation**
 
@@ -27,11 +27,13 @@ I've started adding characters, some of them are ready to use and others are sti
 - 🖖 Lieutenant Commander Geordi La Forge: Chief Engineer
 - 🖖 Lieutenant Commander Worf: Tactical Officer
 - 🖖 Commander Beverly Crusher: Chief Medical Officer
-- Ensign Wesley Crusher: Acting Ensign
-- Commander Katherine Pulaski: Chief Medical Officer
+- 🖖 Ensign Wesley Crusher: Acting Ensign
+- 🖖 Commander Katherine Pulaski: Chief Medical Officer
 - 🖖 Ensign Reginald Barclay: Engineering Officer
-- Ensign Ro Laren: Security Officer
-- Chief Petty Officer, First Class Miles O'Brien: Transporter Chief
+- 🖖 Ensign Ro Laren: Security Officer
+- 🖖 Chief Petty Officer, First Class Miles O'Brien: Transporter Chief
+- 🖖 Q: Godlike Being
+- 🖖 Guinan: Bartender
 
 **Star Trek: Enterprise**
 
