@@ -5,7 +5,7 @@ This repository serves as a collection of characters from the Star Trek universe
 
 ## Characters
 
-I've started adding characters, some of them are ready to use and others are still a work in progress. I'll add more characters as time permits. I am also working on putting together a stable-diffusion prompt to help generate profile pictures.
+I've started adding characters, some of them are ready to use and others are still a work in progress. I'll add more characters and placeholder portraits as time permits.
 
 **Star Trek: The Original Series**
 
@@ -96,7 +96,7 @@ I am interested in experimenting with training LoRAs for each TV show, starting 
 
 ## Character Portraits
 
-I have put together a prompt and workflow that uses Stable-Diffusion and Control-Net to produce pleasing portraits based on screenshots of the original characters. I will include characters as I find time to generate them. Please see the Docs for a [workflow guide](Docs/Guides/guide-portraits.md). Below is an example of the results. I must also note I am only doing what I can within the hardware limitations of my machine (GTX1060 6GB). I suggest exploring ControlNet's stacking of Canny Edge Detection and to produce a stronger likeness.
+I have put together a prompt and workflow that uses Stable-Diffusion and Control-Net to produce pleasing portraits based on screenshots of the original characters. I will include characters as I find time to generate them. Please see the Docs for a [workflow guide](Docs/Guides/guide-portraits.md). Below is an example of the results. I must also note I am only doing what I can within the hardware limitations of my machine (GTX1060 6GB). I suggest exploring ControlNet's stacking of Canny Edge Detection to produce a stronger likeness.
 
 ![beverly-troi](Docs/Readme/portrait-prompt-results.png)
 
