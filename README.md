@@ -5,7 +5,7 @@ This repository serves as a collection of characters from the Star Trek universe
 
 ## Characters
 
-I've started adding characters, some of them are ready to use and others are still a work in progress. I'll add more characters and placeholder portraits as time permits.
+I've started adding characters, some of them are ready to use and others are still a work in progress.
 
 **Star Trek: The Original Series**
 
@@ -71,35 +71,6 @@ I've started adding characters, some of them are ready to use and others are sti
 - Ensign Harry Kim: Communications Officer
 - The Doctor: Emergency Medical Hologram
 - Neelix: Morale Officer
-
-## Models
-
-There are many LLM models to choose from and the space is currently changing quite rapidly with new models being released on a weekly basis. If you have fast internet and can recommend models that do really well at story-telling, chat or roleplay, please feel free to add them here. For now, the newly released Guanaco-7B model seems to be the best choice for an immersive experience.
-
-| **Model**                                                                                               | **Version** | **Perform Well At** | **Notes**                                                  |
-|---------------------------------------------------------------------------------------------------------|-------------|---------------------|------------------------------------------------------------|
-| [WizardLM-7B-uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGML)                   | GGML q5.1   | Chat/RP             | Surprisingly conversational but hallucinates minor details |
-| [Guanaco-7B](https://huggingface.co/TheBloke/guanaco-7B-GGML)                                           | GGML q5.1   | Chat/RP             | [Very good at roleplay](https://guanaco-model.github.io/), surprsingly cohesive!             |
-| [Wizard-Vicuna-7B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)    | GGML q5.1   | Needs Testing       |                                                            |
-| [Wizard-Vicuna-13B-Uncensored-GGML](https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML ) | GGML q5.1   | Needs Testing       |                                                            |
-| [WizardLM-13B-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-13B-Uncensored-GGML)            | GGML q5.1   | Needs Testing       |                                                            |
-| [Wizard-MEGA-13B-GGML](https://huggingface.co/TheBloke/wizard-mega-13B-GGML)                            | GGML q5.1   | Needs Testing       |                                                            |
-
-## LoRAs
-
-I am interested in experimenting with training LoRAs for each TV show, starting with using the material from TNG, and then moving on to DS9 if the results are promising. I will attempt a training run and post my updates here.
-
-| **Base**                                                                                                | **LoRa**               | **Show** | **Notes**                                                  |
-|---------------------------------------------------------------------------------------------------------|------------------------|----------|------------------------------------------------------------|
-| [WizardLM-7B-uncensored-GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ)              | PENDING                | ST:TNG   |                                                            |
-| [WizardLM-7B-uncensored-GPTQ](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ)              | PENDING                | ST:DS9   |                                                            | 
-
-## Character Portraits
-
-I have put together a prompt and workflow that uses Stable-Diffusion and Control-Net to produce pleasing portraits based on screenshots of the original characters. I will include characters as I find time to generate them. Please see the Docs for a [workflow guide](Docs/Guides/guide-portraits.md). Below is an example of the results. I must also note I am only doing what I can within the hardware limitations of my machine (GTX1060 6GB). I suggest exploring ControlNet's stacking of Canny Edge Detection to produce a stronger likeness.
-
-![beverly-troi](Docs/Readme/portrait-prompt-results.png)
-
 
 ## Helper Prompt
 
