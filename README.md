@@ -40,11 +40,10 @@ I've started adding characters, some of them are ready to use and others are sti
 - 🖖 Captain Jonathan Archer
 - Commander T'Pol: First Officer
 - Lieutenant Hoshi Sato: Science Officer
-- Commander Charles Tucker III: Chief Engineer
+- Commander Charles "Trip" Tucker III: Chief Engineer
 - Ensign Travis Mayweather: Helmsman
 - Lieutenant Malcolm Reed: Communications Officer
 - Doctor Phlox: Doctor
-- Ensign Trip Tucker: Engineer
 
 **Star Trek: Deep Space Nine**
 
