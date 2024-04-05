@@ -98,7 +98,7 @@ Contributions to this repository are more than welcome! If you have additional S
 
 1. Fork this repository to your GitHub account.
 2. Make your desired changes or additions. 
-3. For reference, see: [Captain Picard](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20The%20Next%20Generation/picard.json) or [Commander Sisko](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20Deep%20Space%20Nine/sisko.json)
+3. For reference, see: [Captain Picard](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20The%20Next%20Generation/characters/picard.json) or [Commander Sisko](https://github.com/m-spangenberg/ooba-startrek/blob/main/Star%20Trek%20Deep%20Space%20Nine/characters/sisko.json)
 3. Submit a pull request, describing the changes or additions you've made.
 
 Please ensure that your contributions adhere to the following guidelines:
