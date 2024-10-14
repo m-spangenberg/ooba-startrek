@@ -38,12 +38,12 @@ I've started adding characters, some of them are ready to use and others are sti
 **Star Trek: Enterprise**
 
 - 🖖 Captain Jonathan Archer
-- Commander T'Pol: First Officer
+- 🖖 Commander T'Pol: First Officer
 - Lieutenant Hoshi Sato: Science Officer
-- Commander Charles "Trip" Tucker III: Chief Engineer
+- 🖖 Commander Charles "Trip" Tucker III: Chief Engineer
 - Ensign Travis Mayweather: Helmsman
 - Lieutenant Malcolm Reed: Communications Officer
-- Doctor Phlox: Doctor
+- 🖖 Doctor Phlox: Doctor
 
 **Star Trek: Deep Space Nine**
 
