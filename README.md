@@ -49,13 +49,13 @@ I've started adding characters, some of them are ready to use and others are sti
 
 - 🖖 Captain Benjamin Sisko
 - 🖖 Lieutenant Commander Jadzia Dax: First Officer
-- Chief Petty Officer, First Class Miles O'Brien: Chief Engineer
-- Lieutenant Julian Bashir: Chief Medical Officer
-- Lieutenant Ezri Dax: Chief Medical Officer
-- Constable Odo: Security Chief
-- Lieutenant Kira Nerys: First Officer
+- 🖖 Chief Petty Officer, First Class Miles O'Brien: Chief Engineer
+- 🖖 Lieutenant Julian Bashir: Chief Medical Officer
+- 🖖 Lieutenant Ezri Dax: Chief Medical Officer
+- 🖖 Constable Odo: Security Chief
+- 🖖 Lieutenant Kira Nerys: First Officer
 - 🖖 Elim Garak: Tailor, Spy
-- Quark: Owner, Quark's Bar
+- 🖖 Quark: Owner, Quark's Bar
 - Rom: Waiter, Quark's Bar
 - Ensign Nog: Operations Officer
 
@@ -73,7 +73,7 @@ I've started adding characters, some of them are ready to use and others are sti
 
 ## Helper Prompt
 
-Here is a simple prompt to help create character personas a little more quickly. Try it with your prefered langauge model, I've gotten decent results with GPT3.5
+Here is a simple prompt to help create character personas a little more quickly. Try it with your prefered langauge model.
 
 ```bash
 Here I have a summary of the persona of one Captain Benjamin Sisko from the television program Star Trek Deep Space Nine.
@@ -108,7 +108,7 @@ Please ensure that your contributions adhere to the following guidelines:
 
 ## Tips For Better Characters
 
-- Compose a psychological profile of the character you want to model using chatGPT.
+- Compose a psychological profile of the character you want to model using a large language model.
 - Capture their likeness by adding your own take on what you believe makes them special.
 - Distill the essence of their persona down to a paragraph or two with descriptive language.
 - Focus on both strong and weak traits, mannerisms, quirks, and overall presence.
